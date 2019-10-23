@@ -11,6 +11,8 @@
         "crmCustomer": "Customer",
         "crmProductOrder": "Product Order",
         "crmOrderItem": "Order Item",
+        "accountancyInvoice": "Invoice",
+        "accountancyShipment": "Shipment",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {
